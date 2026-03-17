@@ -1,102 +1,159 @@
-📚 Caderno Temático: Git e GitHub para Iniciantes
-🎯 Contexto e Objetivos
+## 📚 Caderno Temático: Git e GitHub para Iniciantes
 
-Este projeto tem como objetivo estudar os conceitos básicos de Git e GitHub utilizando o NotebookLM como ferramenta de aprendizagem.
+---
 
-Objetivos:
+## 🧠 Sobre o Projeto
 
-Entender o que é Git e GitHub
+Este repositório foi desenvolvido como parte de um desafio prático com foco em aprendizagem ativa utilizando Inteligência Artificial (NotebookLM).
 
-Aprender comandos básicos do Git
+O objetivo foi consolidar conhecimentos sobre **Git e GitHub**, aplicando:
 
-Compreender versionamento de código
+* Curadoria de conteúdo
+* Engenharia de prompts
+* Organização de conhecimento técnico
 
-Criar um material de revisão simples e eficiente
+---
 
-🔎 Curadoria de Fontes
+## 🎯 Objetivos de Aprendizagem
 
-https://git-scm.com/docs/git/pt_BR
+* Compreender o funcionamento do Git como sistema de versionamento
+* Utilizar os principais comandos no dia a dia
+* Entender o papel do GitHub em projetos colaborativos
+* Desenvolver habilidades de interação com IA para estudo
 
-https://docs.github.com/pt
+---
 
-https://www.atlassian.com/br/git/tutorials
+## 🔎 Curadoria de Fontes
 
-https://www.freecodecamp.org/news/git-and-github-for-beginners/
+As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
 
-🤖 Engenharia de Prompts e "Cicatrizes"
-🧠 Prompt 1:
+* https://git-scm.com/docs/git/pt_BR
+* https://docs.github.com/pt
+* https://www.atlassian.com/br/git/tutorials
+* https://www.freecodecamp.org/news/git-and-github-for-beginners/
 
-"Explique o que é Git"
+📌 Critério de escolha:
 
-📌 Resultado:
-Resposta muito básica
+* Conteúdo oficial e confiável
+* Linguagem acessível para iniciantes
+* Material atualizado
 
-🔧 Ajuste:
-"Explique o que é Git com exemplos práticos do dia a dia"
+---
+
+## 🤖 Engenharia de Prompts e Aprendizados
+
+Durante o uso da IA, foram realizados testes para melhorar a qualidade das respostas.
+
+### 🧠 Prompt inicial
+
+> "Explique o que é Git"
+
+📉 Problema:
+Resposta superficial e pouco aplicável
+
+---
+
+### 🔧 Prompt refinado
+
+> "Explique o que é Git com exemplos práticos do dia a dia e analogias simples"
 
 📈 Resultado:
-Mais fácil de entender
+Resposta mais clara, contextualizada e fácil de entender
 
-🧠 Prompt 2:
+---
 
-"Quais são os principais comandos do Git?"
+### 🧠 Prompt técnico
 
-📌 Problema:
-Lista sem explicação
+> "Quais são os principais comandos do Git?"
 
-🔧 Ajuste:
-"Liste os principais comandos do Git e explique cada um com exemplo"
+📉 Problema:
+A IA retornou apenas uma lista sem explicação
+
+---
+
+### 🔧 Versão melhorada
+
+> "Liste os principais comandos do Git, explique cada um e dê exemplos de uso"
 
 📈 Resultado:
-Muito mais útil para estudo
+Conteúdo mais completo e útil para estudo
 
-⚠️ Dificuldades encontradas:
+---
 
-Respostas muito genéricas
+### ⚠️ Principais dificuldades
 
-Falta de exemplos
+* Respostas genéricas
+* Falta de exemplos práticos
+* Necessidade de detalhar melhor os prompts
 
-Necessidade de melhorar os prompts
+---
 
-💡 Aprendizado:
+### 💡 Principais aprendizados
 
-Quanto mais específico o prompt, melhor a resposta
+* Prompts específicos geram respostas melhores
+* Contexto é essencial para qualidade da IA
+* Iteração (testar e ajustar) faz parte do processo
 
-Exemplos ajudam muito na compreensão
+---
 
-📘 Miniguia de Estudo
-🧾 Resumo
+## 📘 Miniguia de Estudo
 
-Git é um sistema de controle de versão
+### 🧾 Resumo Estruturado
 
-GitHub é uma plataforma para hospedar códigos
+**Git**
 
-Permite trabalhar em equipe e controlar mudanças
+* Sistema de controle de versão distribuído
+* Permite rastrear alterações no código
+* Facilita trabalho em equipe
 
-📖 Glossário
+**GitHub**
 
-Repositório: local onde o código é armazenado
+* Plataforma de hospedagem de repositórios
+* Permite colaboração, versionamento e deploy
 
-Commit: registro de uma mudança
+---
 
-Branch: versão paralela do código
+### 📖 Glossário
 
-Merge: junção de branches
+* **Repositório**: local onde o projeto é armazenado
+* **Commit**: registro de alterações no código
+* **Branch**: ramificação do projeto
+* **Merge**: união de alterações
+* **Clone**: cópia de um repositório remoto
+* **Pull**: atualizar código local
+* **Push**: enviar alterações para o repositório
 
-🔁 Prompts Reutilizáveis
+---
 
-"Explique [conceito] de forma simples"
+### 🔁 Prompts Reutilizáveis
 
-"Resuma este conteúdo em tópicos"
+* "Explique [conceito] como se eu fosse iniciante"
+* "Resuma este conteúdo em tópicos claros"
+* "Crie exemplos práticos sobre [tema]"
+* "Me teste com 5 perguntas sobre [tema]"
+* "Explique como aplicar [conceito] em projetos reais"
 
-"Me dê exemplos práticos de [tema]"
+---
 
-"Crie um exercício sobre [tema]"
+## 🚀 Tecnologias Utilizadas
 
-🚀 Tecnologias utilizadas
+* NotebookLM
+* GitHub
+* Markdown
 
-NotebookLM
+---
 
-GitHub
+## 📈 Diferenciais do Projeto
 
-Markdown
+✔ Aplicação prática de IA no aprendizado
+✔ Documentação clara e estruturada
+✔ Foco em resolução de problemas (troubleshooting)
+✔ Conteúdo reutilizável para revisões futuras
+
+---
+
+## 👨‍💻 Autor
+
+Seu Nome Aqui
+
+Tayna Gaspar
