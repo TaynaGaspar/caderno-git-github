@@ -153,7 +153,4 @@ Conteúdo mais completo e útil para estudo
 ---
 
 ## 👨‍💻 Autor
-
-Seu Nome Aqui
-
 Tayna Gaspar
